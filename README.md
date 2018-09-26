@@ -1,2 +1,2 @@
 # Algorithms
-Algorithms written in different languages and at different level.
+Algorithms written in different languages at different level. (for education)
